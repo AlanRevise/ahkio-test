@@ -1,0 +1,44 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* ahkio_account_base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0-20210318\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-18 12:16+0000\n"
+"PO-Revision-Date: 2021-06-18 15:27+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Language: fi\n"
+
+#. module: ahkio_account_base
+#: model:ir.model.fields,field_description:ahkio_account_base.field_res_partner__ahkio_company_registry
+#: model:ir.model.fields,field_description:ahkio_account_base.field_res_users__ahkio_company_registry
+msgid "Company registry"
+msgstr "Yhtiön y-tunnus"
+
+#. module: ahkio_account_base
+#: model:ir.model,name:ahkio_account_base.model_res_partner
+msgid "Contact"
+msgstr "Kontakti"
+
+#. module: ahkio_account_base
+#: model:ir.model.fields,field_description:ahkio_account_base.field_res_partner__display_name
+msgid "Display Name"
+msgstr "Näyttönimi"
+
+#. module: ahkio_account_base
+#: model:ir.model.fields,field_description:ahkio_account_base.field_res_partner__id
+msgid "ID"
+msgstr "Tunnus"
+
+#. module: ahkio_account_base
+#: model:ir.model.fields,field_description:ahkio_account_base.field_res_partner____last_update
+msgid "Last Modified on"
+msgstr "Muokattu viimeksi"

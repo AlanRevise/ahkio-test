@@ -1,0 +1,12 @@
+<odoo>
+    <record id="ir_cron_ahkio_apix_fetch" model="ir.cron">
+        <field name="name">Fetch invoices from Apix</field>
+        <field name="model_id" ref="model_ahkio_apix"/>
+        <field name="state">code</field>
+        <field name="code">model.fetch_invoice_zips()</field>
+        <field name="interval_number">1</field>
+        <field name="interval_type">hours</field>
+        <field name="numbercall">-1</field>
+        <field name="active">False</field>
+    </record>
+</odoo>
